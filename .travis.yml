@@ -5,6 +5,7 @@ python:
 
 install:
   - pip install pyxb
+  - pip install scipy
   - pip install -e .
 
 
